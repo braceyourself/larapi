@@ -1,5 +1,5 @@
 {
-  "name": "random-numbers",
+  "name": "larapi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/braceyourself/randon-numbers.git"
+    "url": "git+https://github.com/braceyourself/larapi.git"
   },
   "keywords": [
     "random",
