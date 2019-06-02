@@ -1,0 +1,23 @@
+{
+  "name": "random-numbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braceyourself/randon-numbers.git"
+  },
+  "keywords": [
+    "random",
+    "numbers"
+  ],
+  "author": "Ethan Brace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braceyourself/randon-numbers/issues"
+  },
+  "homepage": "https://github.com/braceyourself/randon-numbers#readme"
+}
